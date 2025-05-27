@@ -1,4 +1,4 @@
-# 👋 Hello,
+# 👋 Hello, I'm NiKolas
 
 ![Profile views](https://komarev.com/ghpvc/?username=Constadin&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/Constadin?label=Followers&style=social)
@@ -8,9 +8,8 @@
 
 ## 🚀 About Me
 
-🎓 I'm a passionate **.NET developer** working with:
-- **C#**, **ASP.NET Core**, **Blazor**, **MAUI**
-- Clean Architecture, SOLID principles
+🎓 I'm a **Software Developer** with dual degrees in Software Development and Electronic Automation Technology.
+Passionate about clean, scalable code.
 
 📍 Based in Greece  
 ---
