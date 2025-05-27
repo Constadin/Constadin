@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Constadin
+# 👋 Hello,
 
 ![Profile views](https://komarev.com/ghpvc/?username=Constadin&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/Constadin?label=Followers&style=social)
@@ -11,12 +11,8 @@
 🎓 I'm a passionate **.NET developer** working with:
 - **C#**, **ASP.NET Core**, **Blazor**, **MAUI**
 - Clean Architecture, SOLID principles
-- SQLite, SQL Server
-- MVVM, DI, REST APIs
 
 📍 Based in Greece  
-📬 Contact: [your.email@example.com](mailto:your.email@example.com)
-
 ---
 
 ## 🔧 Technologies & Tools
@@ -36,9 +32,6 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Virtual Smart Garden 🌱](https://github.com/Constadin/VirtualSmartGarden) | Smart garden system with sensors, auto-watering & dashboard | C#, ASP.NET Core, Blazor, SignalR |
-| [EmotionColor 🎨](https://github.com/Constadin/EmotionColor) | App that displays "psychological colors" and tracks emotions | MAUI, SQLite, MVVM |
-| [More on my repos...](https://github.com/Constadin?tab=repositories) |
 
 ---
 
@@ -56,9 +49,6 @@
 ---
 
 ## ☕ Fun Fact
-
-> I write code like I water plants:  
-> **A little every day, and only when necessary.** 😄🌿
 
 ---
 
