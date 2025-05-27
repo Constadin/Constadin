@@ -28,11 +28,6 @@
 
 ---
 
-## 🛠️ My Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-
 ---
 
 ## 📈 GitHub Stats
@@ -48,7 +43,7 @@
 
 ---
 
-## ☕ Fun Fact
+
 
 ---
 
